@@ -6,4 +6,4 @@
  <br />
 Make a error.txt file in the same directory as the input and output file and debug your code with ease .
 
-<a href="![d](https://user-images.githubusercontent.com/58136319/127445812-adf0538e-3cbd-4696-8f6d-6822845218a8.jpg)"></a>
+<img src="![d](https://user-images.githubusercontent.com/58136319/127445812-adf0538e-3cbd-4696-8f6d-6822845218a8.jpg)">
